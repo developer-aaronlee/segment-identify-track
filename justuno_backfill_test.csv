@@ -1,0 +1,5 @@
+userId,email,email_marketing_opted_in,is_email_opt_in,source,source_detail,timestamp
+uppercase@yopmail.com,uppercase@yopmail.com,opted_in,TRUE,backfill,just uno uppercase bug - nov 2022,2022-11-06T16:01:27Z
+titlecase@yopmail.com,titlecase@yopmail.com,opted_in,TRUE,backfill,just uno uppercase bug - nov 2022,2022-11-07T13:36:42Z
+segmenttest37@yopmail.com,segmenttest37@yopmail.com,opted_in,TRUE,backfill,just uno uppercase bug - nov 2022,2022-11-08T11:52:27Z
+segmenttest38@yopmail.com,segmenttest38@yopmail.com,opted_in,TRUE,backfill,just uno uppercase bug - nov 2022,2022-11-09T11:52:27Z
